@@ -1,3 +1,6 @@
+![badge](https://zenodo.org/badge/DOI/10.5281/zenodo.4926869.svg)
+
+
 # FIAT - Fluorescence Image Analysis Tools
 
 Assorted tools for Fluorescence Image Analysis
